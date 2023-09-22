@@ -2,3 +2,4 @@ new file b
 this is a change in file b
 this is a change in dev branch
 created feature1
+created feature2
